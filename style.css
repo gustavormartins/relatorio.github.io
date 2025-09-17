@@ -1,0 +1,10 @@
+.imagem-estilizada {
+    width: 1080px;
+    border-radius: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+
+.imagem-estilizada:hover {
+    transform: scale(1.05);
+}
